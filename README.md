@@ -1,4 +1,6 @@
-# Mathias’s dotfiles
+# Wes’ dotfiles
+
+~~Totally ripped off~~ Forked from Mathias' dotfiles available at https://github.com/mathiasbynens/dotfiles
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
 
